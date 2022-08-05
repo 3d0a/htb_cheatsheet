@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "aa2a9e9270b94fe4",
+    "type": "split",
+    "children": [
+      {
+        "id": "1beae6671a0e9547",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "15 - sqlmap.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "505a7bb435eceeec",
+    "type": "split",
+    "children": [
+      {
+        "id": "6793e14fe6e58a68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ca708b5266e2240",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "13dc49a1d90f11d6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "36965359e93def55",
+    "type": "split",
+    "children": [
+      {
+        "id": "37ce4bfe44d23d3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53764d18e52b4f84",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "15 - sqlmap.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1beae6671a0e9547",
+  "lastOpenFiles": [
+    "15 - sqlmap.md",
+    "11 - telnet medusa.md",
+    "10 - wfuzz.md",
+    "05 - gobuster.md",
+    "00 - nmap.md",
+    "JAVA decompiler.md",
+    "35 - SSTI.md",
+    "Untitled.md",
+    "55 steghide.md",
+    "50 - kubernetes.md"
+  ]
+}
