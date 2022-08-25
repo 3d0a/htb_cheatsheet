@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "15 - sqlmap.md",
-            "mode": "source"
+            "file": "60 chisel - proxychains.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "15 - sqlmap.md",
+                "file": "60 chisel - proxychains.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "1beae6671a0e9547",
   "lastOpenFiles": [
-    "15 - sqlmap.md",
-    "11 - telnet medusa.md",
     "10 - wfuzz.md",
+    "Untitled.md",
+    "30 - zabbix reverse shell.md",
+    "40 - find.md",
+    "55 steghide.md",
+    "11 - telnet medusa.md",
     "05 - gobuster.md",
     "00 - nmap.md",
-    "JAVA decompiler.md",
-    "35 - SSTI.md",
-    "Untitled.md",
-    "55 steghide.md",
-    "50 - kubernetes.md"
+    "50 - kubernetes.md",
+    "45 - remote shell.md"
   ]
 }
