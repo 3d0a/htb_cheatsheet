@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "60 chisel - proxychains.md",
+            "file": "65 - pspy64.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "60 chisel - proxychains.md",
+                "file": "65 - pspy64.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "1beae6671a0e9547",
   "lastOpenFiles": [
+    "60 chisel - proxychains.md",
+    "55 steghide.md",
     "10 - wfuzz.md",
     "Untitled.md",
     "30 - zabbix reverse shell.md",
     "40 - find.md",
-    "55 steghide.md",
     "11 - telnet medusa.md",
     "05 - gobuster.md",
     "00 - nmap.md",
-    "50 - kubernetes.md",
-    "45 - remote shell.md"
+    "50 - kubernetes.md"
   ]
 }
