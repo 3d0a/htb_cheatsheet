@@ -1,4 +1,4 @@
-# Port Forwarding
+soc# Port Forwarding
 
 Port forwarding with `chisel` is quite simple. For example, if you discovered an open MongoDB service running on a remote computer and wanted to forward traffic from a local port to that remote MongoDB service. Here’s how you could achieve that with `chisel` :
 

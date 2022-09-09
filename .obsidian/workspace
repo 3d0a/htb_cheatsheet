@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "66 - fail2ban.md",
+            "file": "67 - NETcat file transfer.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "66 - fail2ban.md",
+                "file": "67 - NETcat file transfer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "1beae6671a0e9547",
   "lastOpenFiles": [
+    "15 - sqlmap.md",
+    "60 chisel - proxychains.md",
+    "git remote repo.md",
+    "66 - fail2ban.md",
     "JAVA decompiler.md",
     "65 - pspy64.md",
-    "15 - sqlmap.md",
     "16 - sqli file upload.md",
     "10 - wfuzz.md",
     "Untitled.md",
-    "35 - SSTI.md",
-    "60 chisel - proxychains.md",
-    "55 steghide.md",
-    "30 - zabbix reverse shell.md"
+    "35 - SSTI.md"
   ]
 }
