@@ -2,7 +2,7 @@ On your server (A):
 
 
 ```
-nc -l -p 1234 -q 1 > something.zip < /dev/null
+nc -l -p 1234 -q 1 > lin.log < /dev/null
 ```
 
 On your "sender client" (B):

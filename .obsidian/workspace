@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "69 - mysql privesq with root pass.md",
+            "file": "101 - gdb priv esc if u own gdb.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "69 - mysql privesq with root pass.md",
+                "file": "101 - gdb priv esc if u own gdb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "1beae6671a0e9547",
   "lastOpenFiles": [
+    "67 - NETcat file transfer.md",
+    "15 - sqlmap.md",
+    "git remote repo.md",
+    "16 - sqli file upload.md",
+    "69 - mysql privesq with root pass.md",
     "60 chisel - proxychains.md",
     "68 - flask cookie bruteforce.md",
     "100 - file transfer netcat.md",
     "JAVA decompiler.md",
-    "git remote repo.md",
-    "45 - remote shell.md",
-    "25 - asf-rmcp port udp 623.md",
-    "20 - ssh tunnel.md",
-    "65 - pspy64.md",
-    "Untitled.md"
+    "45 - remote shell.md"
   ]
 }
