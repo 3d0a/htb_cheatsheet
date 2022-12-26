@@ -52,3 +52,6 @@ Now we can run the following command on the attacker machine to run Nmap through
 proxychains -q nmap -T4 -sn 10.10.10.0/24
 
 And that’s all you need to know to harness the power of `chisel` — Happy Hacking!
+
+PleaseChangeTheAdminPassword
+PleaseChangeTheRootPassword
