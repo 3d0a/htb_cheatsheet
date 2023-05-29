@@ -27,7 +27,7 @@ Database: writer
 | site    |
 | stories |
 | users   |
-+---------+
+	+---------+
 
 ```
 ## show columns of table
